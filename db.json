@@ -1,0 +1,130 @@
+{
+  "items": [
+    {
+      "iName": "Dosa",
+      "iImage": "https://i.postimg.cc/RFt6Z88k/Screenshot-2024-06-06-162758.png",
+      "iPrice": "60",
+      "iCategory": "Breakfast",
+      "iRating": "4.4",
+      "iKeywords": "SouthIndian",
+      "id": 1
+    },
+    {
+      "iName": "Idli",
+      "iImage": "https://i.postimg.cc/YqGVqxq1/Screenshot-2024-06-06-171302.png",
+      "iPrice": "40",
+      "iCategory": "Breakfast",
+      "iRating": "4.2",
+      "iKeywords": "SouthIndian",
+      "id": 2
+    },
+    {
+      "iName": "Chicken Biriyani",
+      "iImage": "https://i.postimg.cc/XJ1HnrRH/Screenshot-2024-06-06-171441.png",
+      "iPrice": "120",
+      "iCategory": "Lunch",
+      "iRating": "4.9",
+      "iKeywords": "SouthIndian, northindian, dinner, nonveg",
+      "id": 3
+    },
+    {
+      "iName": "Biriyani",
+      "iImage": "https://i.postimg.cc/dVJxmcj9/Screenshot-2024-06-06-172428.png",
+      "iPrice": "100",
+      "iCategory": "Lunch",
+      "iRating": "4.5",
+      "iKeywords": "veg, dinner, SouthIndian, northindian",
+      "id": 4
+    },
+    {
+      "iName": "Sadhya",
+      "iImage": "https://i.postimg.cc/TPfZPXbp/Screenshot-2024-06-11-230029.png",
+      "iPrice": "80",
+      "iCategory": "Lunch",
+      "iRating": "4.8",
+      "iKeywords": "SouthIndian, veg",
+      "id": 5
+    },
+    {
+      "iName": "Chapati",
+      "iImage": "https://i.postimg.cc/sgDCXFq6/Screenshot-2024-06-12-074744.png",
+      "iPrice": "20",
+      "iCategory": "Breakfast",
+      "iRating": "3.9",
+      "iKeywords": "",
+      "id": 6
+    },
+    {
+      "iName": "Chicken Curry",
+      "iImage": "https://i.postimg.cc/wvNSP9Rv/Screenshot-2024-06-12-075258.png",
+      "iPrice": "60",
+      "iCategory": "Lunch",
+      "iRating": "3.8",
+      "iKeywords": "Dinner, Breakfast, chapati, nonveg",
+      "id": 7
+    },
+    {
+      "iName": "kuruma curry",
+      "iImage": "https://i.postimg.cc/pVDwJXtc/Screenshot-2024-06-12-075627.png",
+      "iPrice": "40",
+      "iCategory": "Lunch",
+      "iRating": "3.8",
+      "iKeywords": "Dinner, Breakfast, chapati, pathiri, poori, pureveg",
+      "id": 8
+    },
+    {
+      "iName": "Oreo Mikshake",
+      "iImage": "https://i.postimg.cc/qvcH9Tbm/Screenshot-2024-06-12-205224.png",
+      "iPrice": "80",
+      "iCategory": "Drinks",
+      "iRating": "4.4",
+      "iKeywords": "",
+      "id": 9
+    },
+    {
+      "iName": "BlueBerry Milkshake",
+      "iImage": "https://i.postimg.cc/gkT1Q0Hq/Screenshot-2024-06-12-213059.png",
+      "iPrice": "100",
+      "iCategory": "Drinks",
+      "iRating": "3.9",
+      "iKeywords": "",
+      "id": 10
+    },
+    {
+      "iName": "Orange Juice",
+      "iImage": "https://i.postimg.cc/tRvN3vb7/Screenshot-2024-06-12-225848.png",
+      "iPrice": "50",
+      "iCategory": "Drinks",
+      "iRating": "4.1",
+      "iKeywords": "",
+      "id": 11
+    },
+    {
+      "iName": "Napoli Pizza",
+      "iImage": "https://i.postimg.cc/44BtYfkc/Screenshot-2024-06-13-235855.png",
+      "iPrice": "90",
+      "iCategory": "Lunch",
+      "iRating": "3.4",
+      "iKeywords": "Nonveg, breakfast, dinner ",
+      "id": 12
+    },
+    {
+      "iName": "Double Cheese Pizza",
+      "iImage": "https://i.postimg.cc/cJzxpbVr/Screenshot-2024-06-14-000722.png",
+      "iPrice": "120",
+      "iCategory": "Breakfast",
+      "iRating": "4.6",
+      "iKeywords": "lunch, dinner, veg",
+      "id": 13
+    },
+    {
+      "iName": "Chocolate pizza",
+      "iImage": "https://i.postimg.cc/SRJWy3K3/Screenshot-2024-06-14-001413.png",
+      "iPrice": "140",
+      "iCategory": "Dessert",
+      "iRating": "4.6",
+      "iKeywords": "",
+      "id": 14
+    }
+  ]
+}
